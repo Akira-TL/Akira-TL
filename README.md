@@ -5,6 +5,17 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=79E1F4&background=FFFFFF00&center=true&vCenter=true&repeat=false&width=435&lines=Welcome%20to%20my%20page." alt="Welcome to my GitHub homepage"/>
 </div>
 <div align="center">
+    <strong>About me</strong>
+    <br>
+    🔬I am currently focusing on interdisciplinary research in microbiology and bioinformatics.
+    <br>
+    🎓I graduated with a bachelor's degree from Nanjing Agricultural University
+    <br>
+    I enjoy exploring the unknown
+    <br>
+    <br>
+</div>
+<div align="center">
 <img src="https://wakapi.dev/api/badge/AkiraTL/AkiraTL/interval:30_days?label=last%2030d">
 <img src="https://img.shields.io/endpoint?url=https://wakapi.dev/api/compat/shields/v1/AkiraTL/interval:all_time&label=All%20time&color=blue">
 </div>
