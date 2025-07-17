@@ -20,7 +20,7 @@
 <img src="https://img.shields.io/endpoint?url=https://wakapi.dev/api/compat/shields/v1/AkiraTL/interval:all_time&label=All%20time&color=blue">
 </div>
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=AkiraTL&api_domain=wakapi.dev&bg_color=1A202C&title_color=79E1F4&icon_color=79E1F4&text_color=ffffff&custom_title=Wakapi.dev+Stats+%28All+Time%29&&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=AkiraTL&api_domain=wakapi.dev&bg_color=1A202C&title_color=79E1F4&icon_color=79E1F4&text_color=ffffff&custom_title=Wakapi.dev+Stats+%28Starting+in+June+2025%29&&layout=compact">
 </div>
 <!-- <img src="https://skillicons.dev/icons?i=anaconda,blender,vscode,ai,ps,pr,git,c,cpp,py,r,java,css,html,js,latex,md,ubuntu,bash,vim&perline=8"> -->
 <div align="center">
