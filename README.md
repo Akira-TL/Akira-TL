@@ -1,8 +1,8 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=Waving&color=0:bfe6f4,100:f4e3e9&height=300&section=header&text=HI%20THERE&desc=I'm%20Lang%20Tan&animation=fadeIn&fontAlignY=40&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=Waving&color=0:bfe6f4,100:f4e3e9&height=300&section=header&text=HELLO%20WORLD&desc=I'm%20Lang%20Tan&descSize=40&animation=fadeIn&fontAlignY=40&fontSize=90" />
 </div>
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=79E1F4&background=FFFFFF00&center=true&vCenter=true&repeat=false&width=435&lines=Welcome%20to%20my%20GitHub%20homepage." alt="Welcome to my GitHub homepage"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=79E1F4&background=FFFFFF00&center=true&vCenter=true&repeat=false&width=435&lines=Welcome%20to%20my%20page." alt="Welcome to my GitHub homepage"/>
 </div>
 <div align="center">
 <img src="https://wakapi.dev/api/badge/AkiraTL/AkiraTL/interval:30_days?label=last%2030d">
@@ -19,5 +19,5 @@
         <img src="https://skillicons.dev/icons?i=md,ubuntu,bash,vim" />
 </div>
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=Waving&color=0:f4e3e9,100:bfe6f4&height=300&text=END&desc=Curiosity%20makes%20knowledge%20a%20game.&descAlignY=40&animation=fadeIn&fontAlignY=70&fontSize=90&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=Waving&color=0:f4e3e9,100:bfe6f4&height=300&text=END&desc=Curiosity%20makes%20knowledge%20a%20game.&descAlignY=40&descSize=40&animation=fadeIn&fontAlignY=70&fontSize=90&section=footer" />
 </div>
