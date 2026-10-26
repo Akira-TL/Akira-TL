@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./assets/ascii-header.svg" width="854" height="300" alt="Animated ASCII field introducing Lang Tan / Akira" />
+<img src="./assets/ascii-header.svg" width="854" height="300" alt="HELLO WORLD / I'm Lang Tan" />
 </div>
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=79E1F4&background=FFFFFF00&center=true&vCenter=true&repeat=false&width=435&lines=Welcome%20to%20my%20page." alt="Welcome to my GitHub homepage"/>
@@ -30,5 +30,5 @@
         <img src="https://skillicons.dev/icons?i=md,ubuntu,bash,vim" />
 </div>
 <div align="center">
-<img src="./assets/ascii-footer.svg" width="854" height="300" alt="Animated ASCII field with the Lang Tan / Akira logo" />
+<img src="./assets/ascii-footer.svg" width="854" height="300" alt="END / Curiosity makes knowledge a game." />
 </div>
